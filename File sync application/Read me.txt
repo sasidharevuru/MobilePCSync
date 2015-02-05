@@ -1,0 +1,5 @@
+1. This project is submitted from group : Networking 1
+2. The members involved in the group are : Sasidhar Evuru
+										   Venkatesh Avula
+3. The Coding part of the project contains two coding projects one for the server and the other for the android client.
+4. The report contains the detailed explanation of the different scenarios handled.

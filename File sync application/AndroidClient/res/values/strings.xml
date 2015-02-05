@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ipAddr">ipAddress</string>
+    <string name="portNumber">port</string>
+    <string name="upload">upload</string>
+    <string name="connect">connect</string>
+    <string name="download">download</string>
+    <string name="title_activity_download">DownloadActivity</string>
+    <string name="sync">sync</string>
+    <string name="fileName">FileName</string>
+    <string name="exit">Exit</string>
+
+</resources>
